@@ -15,7 +15,9 @@ Gray HAT
 <p align="center">
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epic-ghost&layout=compact&theme=tokyonight" align="center">
-### My Fav Quotes
+
+  
+# My Fav Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
