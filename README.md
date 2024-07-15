@@ -17,7 +17,9 @@ Gray HAT
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epic-ghost&layout=compact&theme=tokyonight" align="center">
 
-  
+## 🏆 ***GitHub Trophies***
+![](https://github-profile-trophy.vercel.app/?username=SilentDemonSD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 # My Fav Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
