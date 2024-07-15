@@ -1,5 +1,5 @@
 #  About Me:
-Ghost # Hacker
+Ghost # 
 Gray HAT
 
 # 💻 Tech Stack:
@@ -7,15 +7,15 @@ Gray HAT
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=epic-ghost&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Epic-Ghost&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=epic-ghost&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic-Ghost&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epic-ghost&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Ghost&layout=compact&theme=tokyonight" align="center">
 
 ## 🏆 ***GitHub Trophies***
 ![](https://github-profile-trophy.vercel.app/?username=Epic-Ghost&theme=radical&no-frame=false&no-bg=false&margin-w=4)
